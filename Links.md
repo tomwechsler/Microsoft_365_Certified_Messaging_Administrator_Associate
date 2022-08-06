@@ -137,6 +137,30 @@ https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/remote-domain
 
 https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/manage-mail-flow-for-multiple-locations
 
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/troubleshoot-mail-flow
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/validate-connectors
+
+https://docs.microsoft.com/en-us/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results
+
+https://docs.microsoft.com/en-us/exchange/monitoring/trace-an-email-message/message-trace-modern-eac
+
+https://docs.microsoft.com/en-us/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/anti-spam-message-headers
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online
+
+https://docs.microsoft.com/en-us/exchange/monitoring/mail-flow-reports/mfr-non-delivery-details-report
+
+https://docs.microsoft.com/en-us/exchange/mail-flow/transport-logs/transport-logs
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/view-mail-flow-reports
+
+https://docs.microsoft.com/en-us/microsoft-365/troubleshoot/active-directory/single-sign-on-issues
+
+https://docs.microsoft.com/en-us/outlook/troubleshoot/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant
+
 **Plan and implement a hybrid configuration and migration**
 
 **Secure the messaging environment**
