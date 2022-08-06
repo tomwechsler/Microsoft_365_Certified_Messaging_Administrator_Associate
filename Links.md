@@ -117,6 +117,16 @@ https://docs.microsoft.com/en-us/learn/modules/m365-messaging-manage-mobile-devi
 
 **Plan and manage the mail transport architecture**
 
+https://docs.microsoft.com/en-us/exchange/mail-flow/connectors/connectors
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/use-connectors-to-configure-mail-flow
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail
+
+https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-inter-tenant-collaboration
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/enhanced-filtering-for-connectors
+
 **Plan and implement a hybrid configuration and migration**
 
 **Secure the messaging environment**
