@@ -127,6 +127,16 @@ https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-inter-te
 
 https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/enhanced-filtering-for-connectors
 
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/remote-domains/manage-remote-domains
+
+https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/manage-mail-flow-for-multiple-locations
+
 **Plan and implement a hybrid configuration and migration**
 
 **Secure the messaging environment**
