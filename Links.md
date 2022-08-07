@@ -173,6 +173,30 @@ https://techcommunity.microsoft.com/t5/exchange-team-blog/hybrid-organization-co
 
 https://docs.microsoft.com/en-us/exchange/hybrid-deployment/hybrid-agent
 
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/office-365-migration-best-practices
+
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/cutover-migration-to-office-365
+
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/perform-a-staged-migration/perform-a-staged-migration
+
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes
+
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/perform-g-suite-migration
+
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/manage-migration-batches
+
+https://docs.microsoft.com/en-us/Exchange/hybrid-deployment/move-mailboxes
+
+https://docs.microsoft.com/en-us/learn/modules/m365-messaging-migration/migration-endpoints?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-m365.m365-messaging-hybrid-migration
+
+https://docs.microsoft.com/en-us/microsoft-365/enterprise/cross-tenant-mailbox-migration
+
+https://docs.microsoft.com/en-us/exchange/mailbox-migration/manage-migration-batches
+
+https://docs.microsoft.com/en-us/learn/modules/m365-messaging-migration/non-microsoft-messaging-systems
+
+https://docs.microsoft.com/en-us/exchange/troubleshoot/move-or-migrate-mailboxes/troubleshoot-migration-issues-in-exchange-hybrid
+
 **Secure the messaging environment**
 
 
