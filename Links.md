@@ -163,6 +163,16 @@ https://docs.microsoft.com/en-us/outlook/troubleshoot/performance/how-to-scan-ou
 
 **Plan and implement a hybrid configuration and migration**
 
+https://techcommunity.microsoft.com/t5/exchange-team-blog/demystifying-hybrid-free-busy-what-are-the-moving-parts/ba-p/607704
+
+https://docs.microsoft.com/en-us/exchange/shared-free-busy
+
+https://docs.microsoft.com/en-us/exchange/edge-transport-servers
+
+https://techcommunity.microsoft.com/t5/exchange-team-blog/hybrid-organization-configuration-transfer/ba-p/607944
+
+https://docs.microsoft.com/en-us/exchange/hybrid-deployment/hybrid-agent
+
 **Secure the messaging environment**
 
 
