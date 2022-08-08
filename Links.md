@@ -215,10 +215,12 @@ https://docs.microsoft.com/en-us/exchange/collaboration-exo/public-folders/batch
 
 **Secure the messaging environment**
 
+https://docs.microsoft.com/en-us/exchange/permissions-exo/role-groups
 
+https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/about-exchange-online-admin-role
 
+https://docs.microsoft.com/en-us/exchange/permissions-exo/permissions-exo
 
+https://docs.microsoft.com/en-us/exchange/delegated-setup-exchange-2013-help
 
-
-
-
+https://docs.microsoft.com/en-us/microsoft-365/compliance/assign-ediscovery-permissions
