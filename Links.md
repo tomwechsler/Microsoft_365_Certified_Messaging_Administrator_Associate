@@ -197,6 +197,22 @@ https://docs.microsoft.com/en-us/learn/modules/m365-messaging-migration/non-micr
 
 https://docs.microsoft.com/en-us/exchange/troubleshoot/move-or-migrate-mailboxes/troubleshoot-migration-issues-in-exchange-hybrid
 
+https://docs.microsoft.com/en-us/exchange/collaboration-exo/public-folders/public-folders
+
+https://docs.microsoft.com/en-us/exchange/move-a-public-folder-to-a-different-public-folder-mailbox-exchange-2013-help
+
+https://docs.microsoft.com/en-us/exchange/collaboration-exo/public-folders/create-public-folder-mailbox
+
+https://docs.microsoft.com/en-us/exchange/collaboration/public-folders/public-folders
+
+https://docs.microsoft.com/en-us/exchange/collaboration/public-folders/mail-enable-or-disable
+
+https://docs.microsoft.com/en-us/exchange/hybrid-deployment/set-up-modern-hybrid-public-folders
+
+https://docs.microsoft.com/en-us/exchange/policy-and-compliance/ediscovery/search-public-folders
+
+https://docs.microsoft.com/en-us/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders
+
 **Secure the messaging environment**
 
 
