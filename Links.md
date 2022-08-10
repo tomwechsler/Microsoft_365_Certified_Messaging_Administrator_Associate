@@ -263,8 +263,8 @@ https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/user
 
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/admin-submission
 
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy
 
+https://docs.microsoft.com/en-us/exchange/policy-and-compliance/mrm/create-retention-policies
 
-
-
-
+https://docs.microsoft.com/en-us/exchange/policy-and-compliance/mrm/apply-retention-policies-to-mailboxes
