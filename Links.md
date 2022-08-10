@@ -31,7 +31,6 @@ https://docs.microsoft.com/en-us/learn/paths/manage-mailbox-migrations/
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
-coming soon!
 
 **Manage organizational settings and resources**
 
