@@ -268,3 +268,23 @@ https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-reco
 https://docs.microsoft.com/en-us/exchange/policy-and-compliance/mrm/create-retention-policies
 
 https://docs.microsoft.com/en-us/exchange/policy-and-compliance/mrm/apply-retention-policies-to-mailboxes
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention
+
+https://docs.microsoft.com/en-us/exchange/policy-and-compliance/data-loss-prevention/data-loss-prevention
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-sensitivity-labels
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-retention-policies
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-test-tune-dlp-policy
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/enable-mailbox-auditing
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/journaling/manage-journaling
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/content-search
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-core-ediscovery
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case
